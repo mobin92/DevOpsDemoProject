@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
     <label for="state"><b>State</b></label>
-    <input type="text" placeholder="Enter State" name="state" id="state" required>
+    <input type="text" placeholder="Enter State Name" name="state" id="state" required>
     <br>
     <hr>
     <br>
